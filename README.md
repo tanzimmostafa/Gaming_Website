@@ -1,1 +1,6 @@
 # gaming-site
+
+This is just a simple website containing a video of me playing a video game and one of my favourite songs from back then. This is from back when I just started learning HTML and CSS.
+
+To open the website, just download all the files and open the .html file in your computer.
+
